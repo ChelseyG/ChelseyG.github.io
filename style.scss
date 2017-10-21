@@ -234,9 +234,9 @@ b {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px; // @TODO: Horizontal middle align
   font-family: $merriweather;
-  font-size: 18px;
+  font-size: 12px;
 
   @include mobile {
     float: none;
