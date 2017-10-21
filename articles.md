@@ -6,13 +6,13 @@ permalink: /Articles & Tools/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
-### Visualization
+## Visualization
 🚧
 
-### Text Analysis
+## Text Analysis
 🚧
 
-### Code
+## Code
 
 #### Articles:
 🚧
