@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $merriweather;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $merriweather;
   color: $darkerGray;
   font-weight: bold;
 
@@ -169,7 +169,7 @@ img.emoji {
 .wrapper-masthead {
   margin-bottom: 50px;
   background-color: $yellow;
-  border-bottom: 1px solid $gray;
+  border-bottom: 1px solid $teal;
 }
 
 .masthead {
@@ -182,9 +182,9 @@ img.emoji {
 
 .site-avatar {
   float: left;
-  width: 80px;
+  width: 150px;
   height: 80px;
-  margin-right: 15px;
+  margin-right: 10px;
 
   @include mobile {
     float: none;
@@ -211,7 +211,7 @@ img.emoji {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $merriweather;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -235,7 +235,7 @@ b {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $merriweather;
   font-size: 18px;
 
   @include mobile {
@@ -297,7 +297,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $teal;
 }
 
 footer {
