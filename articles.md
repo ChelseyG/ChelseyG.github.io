@@ -15,7 +15,12 @@ This page contains articles and tools consulted for each of the topic explored i
 ## Code
 
 #### Articles:
-🚧
+[Paul Ford - "What is Code"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
+[Eric Steven Raymond - "The Cathedral and the Bazaar"](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+[Lauren Klein - "Code"](https://digitalpedagogy.mla.hcommons.org/keywords/code/)
+
 #### Tools
 [Hypothesis](https://web.hypothes.is/)
   is a great tool for annotating web articles and keeping track of your annotations. I use hypothesis to annotate all the articles I explore for this course.
