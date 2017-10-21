@@ -182,8 +182,8 @@ img.emoji {
 
 .site-avatar {
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   margin-right: 10px;
 
   @include mobile {
@@ -220,7 +220,7 @@ img.emoji {
 .site-description {
   margin: -5px 0 0 0;
   color: $black;
-  font-size: 20px;
+  font-size: 18px;
 
 b {
     color: white;
