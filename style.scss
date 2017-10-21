@@ -182,8 +182,8 @@ img.emoji {
 
 .site-avatar {
   float: left;
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
   margin-right: 10px;
 
   @include mobile {
@@ -209,7 +209,7 @@ img.emoji {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
   font-family: $merriweather;
   font-weight: 300;
@@ -219,7 +219,7 @@ img.emoji {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $darkGray;
+  color: $black;
   font-size: 20px;
 
 b {
