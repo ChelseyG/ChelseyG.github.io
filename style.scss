@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $green;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -114,10 +114,26 @@ img {
 .gmnoprint img {
   max-width: none;
 }
+/* emoji never get resized */
+img.emoji {
+  width: 20px !important;
+  margin: 0px !important;
+  float: none !important;
+  border: none !important;
+}
+
+.inline-cta {
+  padding: 10px 15px;
+  background-color: #FDEBDA;
+  border: solid 1px $lightGray;
+  a {
+    text-decoration: underline;
+  }
+}
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $darkgray;
 }
 
 // Specify the color of the selection
@@ -152,8 +168,8 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: $blue;
-  border-bottom: 1px solid $lightGray;
+  background-color: $green;
+  border-bottom: 1px solid $lighGray;
 }
 
 .masthead {
@@ -203,9 +219,14 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $transparentGray;
   font-size: 16px;
 
+b {
+    color: white;
+    font-weight: 400;
+  }
+	
   @include mobile {
     margin: 3px 0;
   }
