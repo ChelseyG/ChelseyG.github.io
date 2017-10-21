@@ -10,7 +10,7 @@ I am a Carleton University master’s student looking to explore the world of Di
 My digital notebook is part of a project for a course I am taking at Carleton University.
 
 ### More Information
-[DH at Carleton University](https://carleton.ca/dighum/) 
+🎓 [DH at Carleton University](https://carleton.ca/dighum/) 
 
 ### Contact me
 
