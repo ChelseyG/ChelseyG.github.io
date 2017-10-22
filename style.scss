@@ -173,7 +173,7 @@ img.emoji {
 }
 
 .masthead {
-  padding: 35px 0;
+  padding: 30px 0;
   
   @include mobile {
     text-align: center;
@@ -184,7 +184,7 @@ img.emoji {
   float: left;
   width: 90px;
   height: 90px;
-  margin-right: 10px;
+  margin-right: 8px;
 
   @include mobile {
     float: none;
@@ -234,7 +234,7 @@ b {
 
 nav {
   float: right;
-  margin-top: 18px; // @TODO: Horizontal middle align
+  margin-top: 15px; // @TODO: Horizontal middle align
   font-family: $merriweather;
   font-size: 10px;
 
@@ -246,7 +246,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 10px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
