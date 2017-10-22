@@ -167,9 +167,9 @@ img.emoji {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   background-color: $yellow;
-  border-bottom: 1px solid $teal;
+  border-bottom: 3px solid $teal;
 }
 
 .masthead {
@@ -236,7 +236,7 @@ nav {
   float: right;
   margin-top: 18px; // @TODO: Horizontal middle align
   font-family: $merriweather;
-  font-size: 15px;
+  font-size: 10px;
 
   @include mobile {
     float: none;
@@ -295,8 +295,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #plant;
-  border-bottom: 1px solid #plant;
+  border-top: 5px solid #plant;
+  border-bottom: 5px solid #plant;
   background-color: $teal;
 }
 
