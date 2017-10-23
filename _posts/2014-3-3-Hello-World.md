@@ -14,8 +14,9 @@ The problem with code is that it is not accessible to everyone. Technological ad
   
 2.	Take breaks
   *	When you encounter problems without any known solution, the best thing you can do is come back a few hours or days later and review your work with a fresh mind. Taking breaks allows you to reflect on what you have accomplished and what you have failed to do. You will find it much easier to find solutions to the mistakes you have made. 
+  
 3.	Throw away code
   * Your code will not be perfect on the first try, unless you are some type of coding genius. Be prepared to start over more than once, “plan to throw away; you will, anyhow” ([Eric Steven Raymond](https://hyp.is/Pv8mSq-fEee2Rssvqp-XkQ/www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)).
   
-4)	Use other people’s code
+4.	Use other people’s code
   * Using other people’s code as a starting point and building off of it is the easiest way to build your own code. Do not think you have to accomplish everything on your own. Learning from others is the easiest way to wrap your head around what you are doing. 
