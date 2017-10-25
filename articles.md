@@ -10,6 +10,14 @@ This page contains articles and tools consulted for each of the topic explored i
 🚧
 
 ## Text Analysis
+#### Articles:
+[Tressie McMillan Cottom- "Nascent Thoughts on Text Analysis Across Disciplines"](https://tressiemc.com/uncategorized/nascent-thoughts-on-text-analysis-across-disciplines/#annotations:BezHxLnZEee4IO8wumsdbw)
+
+[Tanya Clement, Sara Steger, John Unsworth, Kirsten Uszkalo - "How not to Read a Million Books"](http://www.people.virginia.edu/~jmu2m/hownot2read.html#annotations:rYPLxrnfEeeHLi9YqK-0bw)
+
+[Geoffrey Rockwell - "What is Text Analysis"](http://geoffreyrockwell.com/publications/WhatIsTAnalysis.pdf)
+
+#### Tools
 🚧
 
 ## Code
