@@ -1,8 +1,8 @@
 ---
-Layout: post
+Layout: Post
 Title: Text Analysis
 Published: True
 ---
 
-#Text Analysis 📖
+Text Analysis 📖
 🚧
