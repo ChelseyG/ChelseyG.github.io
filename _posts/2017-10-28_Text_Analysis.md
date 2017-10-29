@@ -1,6 +1,6 @@
 ---
-Layout: Post
-Title: Text Analysis
+layout: post
+title: Text Analysis
 published: true
 ---
 
