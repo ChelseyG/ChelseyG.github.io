@@ -1,5 +1,5 @@
 ---
-Layout: Post
-Title: Visualization 
-Published: True
+layout: post
+title: Visualization 
+published: true
 ---
