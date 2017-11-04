@@ -24,7 +24,7 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [AntCon](http://www.allscrabblewords.com/unscramble/antcon) is a word scrambler that can give you a variety of words made up of the same letters as another word. 
 
-[Voyant tools](http://voyant-tools.org/) is a tool that can do a mutlitude of text-analysis including word clouds, word usage, trends, bubble lines, correlations, and common phrases to name a few. 
+[Voyant tools](http://voyant-tools.org/) is a tool that can do a multitude of text-analysis including word clouds, word usage, trends, bubble lines, correlations, and common phrases to name a few. 
 
 ## Code
 
