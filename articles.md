@@ -11,6 +11,7 @@ This page contains articles and tools consulted for each of the topic explored i
 
 #### Tools:
 [Zingchart](https://www.zingchart.com/) allows you to make a variety of different graphs based on data gathered. 
+[Imj](http://www.zachwhalen.net/pg/imj/) allows you to create a barcode, montage, or plot of images. It also allows you to sort your images based on different elements such as brightness, hue, saturation, etc. 
 
 ## Text Analysis
 #### Articles:
