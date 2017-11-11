@@ -9,6 +9,9 @@ This page contains articles and tools consulted for each of the topic explored i
 ## Visualization
 🚧
 
+#### Tools:
+[Zingchart](https://www.zingchart.com/) allows you to make a variety of different graphs based on data gathered. 
+
 ## Text Analysis
 #### Articles:
 [Tressie McMillan Cottom- "Nascent Thoughts on Text Analysis Across Disciplines"](https://tressiemc.com/uncategorized/nascent-thoughts-on-text-analysis-across-disciplines/#annotations:BezHxLnZEee4IO8wumsdbw)
