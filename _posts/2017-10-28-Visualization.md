@@ -7,7 +7,7 @@ published: true
 ## History and Definition 
 Visualization has a long history. In fact, “visualization techniques . . . have been used for centuries” (Bailey). Dating as far back as the medieval period, manuscripts contained tree diagrams to classify as a mnemonic technique, as shown in figure 1 (Bailey). 
 
-https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%201.jpg
+[[https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%201.jpg]]
 #### Figure 1: [from Peter of Spain’s 13th century ‘Dialectica’]( http://blog.wellcomelibrary.org/2016/04/spotlight-a-medieval-tree-of-knowledge/)
  
 William Playfield was a pioneer in the field of Information Visualization for statistical graphics as he created the line graph, bar chart, and pie chart (Bailey). Though it should also be mentioned that John Snow and Florence Nightingale also contributed to the field, in terms of public health (Bailey). Charles Joseph Minard took visualization a step further and employed Geovisualization to demonstrate Napoleon’s army’s movement during “the campaign of 1812” (Bailey). However, the study of Geovisualization (which I will discuss in more detail below) became central to Visualization due to Jacques Bertin’s cartographic work. 
