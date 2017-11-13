@@ -33,7 +33,7 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Imj](http://www.zachwhalen.net/pg/imj/) allows you to create a barcode, montage, or plot of images. It also allows you to sort your images based on different elements such as brightness, hue, saturation, etc. You can also download a desktop version of Imj [here](https://imagej.nih.gov/ij/download.html).
 
-[Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
+[Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) allows you to gage sentiments from twitter posts. 
 
 [Brian Suda and Sam Hampton-Smith](http://www.creativebloq.com/design-tools/data-visualization-712402) have provided a comprehensive list of about 38 different tools that can be used for digital Visualization. 
 
