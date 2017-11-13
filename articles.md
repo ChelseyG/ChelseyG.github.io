@@ -7,11 +7,35 @@ permalink: /articles/
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
 ## Visualization
-🚧
+#### Articles:
+[John McGhee - 3-D visualization and animation technologies in anatomical imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815947/)
+
+[Lev Manovich - What is Visualization?](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf)
+
+[Damien Huffer and Shawn Graham - The Insta-Dead: The rhetoric of the human remains trade on Instagram](http://intarch.ac.uk/journal/issue45/5/1.html)
+
+[S. Graham, I. Milligan, & S. Weingart - The Principles of Information Visualization](http://www.themacroscope.org/?page_id=469)
+
+[Jefferson Bailey - Speak to the Eyes: The History and Practice of Information Visualization](http://www.jeffersonbailey.com/speak-to-the-eyes-the-history-and-practice-of-information-visualization/)
+
+[Kevin L. Ferguson - Digital Surrealism: Visualizing Walt Disney Animation Studios](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html)
+
+[Mike Beneth - The Risks and Limitations of Visualization](https://www.datavizualization.datasciencecentral.com/blog/the-risks-and-limitations-of-visualization)
+
+[Daniel Acevedo, Eileen Vote, David H. Laidlaw, and Martha S.Joukowsky - Archaeological Data Visualization in VR: The ARCHAVE System](http://graphics.cs.brown.edu/research/sciviz/archaeology/archave/)
+
+[Who, What, Why: What is the method for reconstructing Richard III's face?](http://www.bbc.com/news/magazine-21350181)
 
 #### Tools:
+[Raw](http://app.rawgraphs.io/) allows you to use non-spatial data to create a variety of different plots. 
+
 [Zingchart](https://www.zingchart.com/) allows you to make a variety of different graphs based on data gathered. 
-[Imj](http://www.zachwhalen.net/pg/imj/) allows you to create a barcode, montage, or plot of images. It also allows you to sort your images based on different elements such as brightness, hue, saturation, etc. 
+
+[Imj](http://www.zachwhalen.net/pg/imj/) allows you to create a barcode, montage, or plot of images. It also allows you to sort your images based on different elements such as brightness, hue, saturation, etc. You can also download a desktop version of Imj [here](https://imagej.nih.gov/ij/download.html).
+
+[Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
+
+[Brian Suda and Sam Hampton-Smith](http://www.creativebloq.com/design-tools/data-visualization-712402) have provided a comprehensive list of about 38 different tools that can be used for digital Visualization. 
 
 ## Text Analysis
 #### Articles:
