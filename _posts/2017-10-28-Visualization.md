@@ -7,12 +7,14 @@ published: true
 ## History and Definition 
 Visualization has a long history. In fact, “visualization techniques . . . have been used for centuries” (Bailey). Dating as far back as the medieval period, manuscripts contained tree diagrams to classify as a mnemonic technique, as shown in figure 1 (Bailey). 
 
-#### Figure 1 ![Figure 1](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%201.jpg): [from Peter of Spain’s 13th century ‘Dialectica']( http://blog.wellcomelibrary.org/2016/04/spotlight-a-medieval-tree-of-knowledge/)
+#### Figure 1 ![Figure 1](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%201.jpg): 
+[from Peter of Spain’s 13th century ‘Dialectica']( http://blog.wellcomelibrary.org/2016/04/spotlight-a-medieval-tree-of-knowledge/)
  
 William Playfield was a pioneer in the field of Information Visualization for statistical graphics as he created the line graph, bar chart, and pie chart (Bailey). Though it should also be mentioned that John Snow and Florence Nightingale also contributed to the field, in terms of public health (Bailey). Charles Joseph Minard took visualization a step further and employed Geovisualization to demonstrate Napoleon’s army’s movement during “the campaign of 1812” (Bailey). However, the study of Geovisualization (which I will discuss in more detail below) became central to Visualization due to Jacques Bertin’s cartographic work. 
 
 The development of Information Visualization and Geovisualization have a long history, and we could even include Scientific Visualization in this history if we were to consider Leonardo Da Vinci’s work *Anatomist* (Figure 2). However, it was not until the 1980s that Visualization as we know it now came to be and this is due to the emergence of computer graphic programs (Bailey). For the purpose of this course, what we are concerned with is Digital Visualization. So what is Digital Visualization (or as I will refer to it below as simply Visualization)?
-#### Figure 2 ![Figure 2](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%202.jpg): [Leonardo Da Vinci: Anatomist]( https://julieayreuq.wordpress.com/tag/leonardo-da-vinci/)
+#### Figure 2 ![Figure 2](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%202.jpg):
+[Leonardo Da Vinci: Anatomist]( https://julieayreuq.wordpress.com/tag/leonardo-da-vinci/)
  
 Visualization comes from the root word visual, which is Latin for “to see” or “sight”. Knowing the etymology of a word is useful, but in this context, Visualization, especially in the digital sphere is much more specific. The Oxford English Dictionary (OED) provides two definitions for Visualization. The first, which was used from 1883 to 1894, is “[t]he action or fact of visualizing; the power or process of forming a mental picture or vision of something not actually present to the sight; a picture thus formed” (OED). The second, used from 1926-1982, is “[t]he action or process of rendering visible” (OED). These definitions are still quite vague, therefore, I would like to provide my own amalgamate definition, based on class discussion “🚧”. 
 
