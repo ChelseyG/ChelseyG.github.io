@@ -20,7 +20,7 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Kevin L. Ferguson - Digital Surrealism: Visualizing Walt Disney Animation Studios](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html)
 
-[Mike Beneth - The Risks and Limitations of Visualization](https://www.datavizualization.datasciencecentral.com/blog/the-risks-and-limitations-of-visualization)
+[Arden Manning - https://yseop.com/blog/top-4-limitations-of-data-visualization-tools-2/](https://yseop.com/blog/top-4-limitations-of-data-visualization-tools-2/)
 
 [Daniel Acevedo, Eileen Vote, David H. Laidlaw, and Martha S.Joukowsky - Archaeological Data Visualization in VR: The ARCHAVE System](http://graphics.cs.brown.edu/research/sciviz/archaeology/archave/)
 
