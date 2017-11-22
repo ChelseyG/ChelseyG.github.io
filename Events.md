@@ -4,6 +4,11 @@ title: Digital Humanity Events
 permalink: /Events/
 ---
 
+## Magical Methods: Using Topic Models in Digital Humanities' Research
+### November 22, 2017
+
+🚧Professor Shawn Graham of Carleton University🚧
+
 ## FWD 50: Realizing the potential of our digital future / Réaliser le potentiel de notre futur numérique
 ### November 2, 2017
 Nancy Chahwan, Deputy Commissioner of the Canada Revenue Agency (CRA) spoke on Thursday November 2 about the ways the CRA has been implementing digitization to foster innovation and improve services for the public, as part of FWD 50, which is Canada's digital government conference. She touched on:
