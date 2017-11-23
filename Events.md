@@ -7,7 +7,12 @@ permalink: /Events/
 ## Magical Methods: Using Topic Models in Digital Humanities' Research
 ### November 22, 2017
 
-🚧Professor Shawn Graham of Carleton University🚧
+Professor Shawn Graham of Carleton University spoke topic modeling in the field of digital humanities with a focus on archeology. First, he explained that a (large) part of digital humanities is borrowing from other disciplines and applying it to our own field of study. 
+
+The current problems, Professor Graham highlights regarding topic modeling, are whether the data is scarce or abundant, material shifting across formats, and the problem of big data. Big data can be both a blessing and/or a problem. Big data can come in many forms like 200 electronic documents (blessing) or 200 years’ worth of archeological artifacts (problem). What we need to keep in mind is that using big data, to topic model, is that it does not provide a justification, but rather another way to understand the data in front of us. I think this statement is the most important statement that Professor Graham made during his lecture regarding topic modeling.   
+
+He then goes on to discuss that often, visualizing the data pulled from topic models is a good way to see all the data at once and to compare and contrast the results to come up with an understanding. He displayed several examples of the ways visualization can be applied to topic modeling. He also mentioned the importance of using other people code as a starting point for your own. There is no need to start from scratch, but there is opportunity to learn from others. 
+
 
 ## FWD 50: Realizing the potential of our digital future / Réaliser le potentiel de notre futur numérique
 ### November 2, 2017
