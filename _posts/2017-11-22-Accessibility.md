@@ -26,7 +26,7 @@ How do we begin the conversation? Well, a good start is to involve the appropria
 * It is impossible to make content 100% accessible.
   *	But, it is not impossible to make content tailored towards one specific audience 100% accessible.
 *	It is good to make content widely available.
-  * But, putting in place too many filters to make content accessible may impede more than help. 
+    * But, putting in place too many filters to make content accessible may impede more than help. 
 * Everyone is abled.
   * But, some people have to do things a little differently than others.
 
