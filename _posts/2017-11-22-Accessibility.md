@@ -4,7 +4,7 @@ title: Accessibility
 published: true
 ---
 
-    “The problem with having a disability is not the disability. The problem is other people. Other people’s biases, prejudices and   ugliness get in the way of seeing people. I wish people would understand that disability is just a variation of the human experience” -  Johanna Hirons Radziwon
+  “The problem with having a disability is not the disability. The problem is other people. Other people’s biases, prejudices and   ugliness get in the way of seeing people. I wish people would understand that disability is just a variation of the human experience” -  Johanna Hirons Radziwon
 
 ## Definition
 I have come across many definitions for accessibility, but I do feel that George H. Williams best defines it (or describes it) in his article [“Access”](https://digitalpedagogy.mla.hcommons.org/keywords/access/) in the *Digital Pedagogy for the Humanities* journal. Williams writes, “[a]ccessibility exists when a user . . . can easily make use of a particular digital resource . . . with their choice of technology . . . and can, as a result, cognitively process the information as it comes to them from that resource through that technology”. 
