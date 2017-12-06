@@ -5,6 +5,20 @@ permalink: /articles/
 ---
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
+🚧## Mapping
+#### Articles:
+[Fred Gibbs - Digital Mapping + Geospatial Humanities](http://fredgibbs.net/courses/digital-mapping/)
+[Stuart Eve - The Embodied GIS: Using Reality to explore multi-sensory archaeological landscapes](http://intarch.ac.uk/journal/issue44/3/index.html)
+[Diana D. Sinton - Mapping](https://digitalpedagogy.mla.hcommons.org/keywords/mapping/)
+[Johanna Drucker - Humanities Approaches to Graphical Display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
+
+#### Tools:
+GIS - Geographic Information Systems
+
+🚧## Accessibility
+#### Articles:
+
+####Tools:🚧
 
 ## Visualization
 #### Articles:
