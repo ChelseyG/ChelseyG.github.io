@@ -19,10 +19,19 @@ This page contains articles and tools consulted for each of the topic explored i
 #### Tools:
 GIS - Geographic Information Systems
 
-🚧## Accessibility
+## Accessibility
 #### Articles:
+[Eleanor Ratliff - Accessibility Whack-A-Mole](https://alistapart.com/article/accessibility-whack-a-mole)
 
-####Tools:🚧
+[BookwormBlues - I Am Not Broken: The Language of Disability](http://www.bookwormblues.net/2014/09/10/i-am-not-broken-the-language-of-disability/)
+
+[George H. Williams - Disability, Universal Design, and the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/44)
+
+[George H. Williams - Access](https://digitalpedagogy.mla.hcommons.org/keywords/access/)
+
+####Tools:
+
+[Funkify](http://funkify.org/)is a disability stimulator that allows users to experience what it is like using computers with a particular disability. It must be noted that this tool, while neat, is not an accurate representation of each disability it simulates. It is also important to note that this tool represents real struggles for real people and shouldn't be treated like a toy. This means saying things like "this is so cool" can be offensive for those who have a disability and struggle everyday with exactly what the tool simulates.  
 
 ## Visualization
 #### Articles:
