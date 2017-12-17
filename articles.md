@@ -17,9 +17,11 @@ This page contains articles and tools consulted for each of the topic explored i
 [Johanna Drucker - Humanities Approaches to Graphical Display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
 
 #### Tools:
-GIS - Geographic Information Systems
+
 [OpenStreet](https://www.openstreetmap.org/#map=2/71.3/-96.8) is a community driven mapping site where local uses can contribute and maintain maps. The website is entirely user generated and provides different details (like where garbage and recylcing is located) that you cannot find on Google Maps. 
+
 [Google Maps](https://www.google.ca/maps) is a mapping site that shows you how to get from A to B. The map allows you to dive into the maps and "walk around". 
+
 [Map Warper](mapwarper.net) is a really neat site that allows you to overlap two maps of the same area from different time periods to see how certain characteristics have changed over time. 
 
 ## Accessibility
