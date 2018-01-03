@@ -6,6 +6,26 @@ permalink: /articles/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
+## Crowds
+#### Articles:
+[Bridget Draxler and Jon Winet - Community](https://digitalpedagogy.mla.hcommons.org/keywords/community/)
+
+[Roy Rosenzweig - Essas on History and New Media](http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42 )
+
+[Avi Santo and Christopher Lucas - Engaging Academic and Nonacademic Communities through Online Scholarly Work
+](http://www.jstor.org.proxy.library.carleton.ca/stable/pdf/20484454.pdf)
+
+[Kristen Nawrotzki and Jack Dougherty - Writing History in the Digital Age](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
+
+[Robert S. Wolff - The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
+
+[Shawn Graham - The Wikiblitz: A Wikipedia Editing Assignment in a First-Year Undergraduate Class](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
+
+[Martha Saxton - Wikipedia and Women’s History: A Classroom Experience](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
+
+#### Tools:
+🚧
+
 ## Mapping
 #### Articles:
 [Fred Gibbs - Digital Mapping + Geospatial Humanities](http://fredgibbs.net/courses/digital-mapping/)
