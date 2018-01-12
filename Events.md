@@ -4,6 +4,11 @@ title: Digital Humanity Events
 permalink: /Events/
 ---
 
+## Digital Interfaces: A Significant Contribution to Earl Modern Theatre Studies
+### January 12, 2018
+Dr. Christopher Schuwey of the University of Fribourg's lecture "Digital Interfaces: A Significant Contribution
+to Early Modern Theatre Studies" 
+
 ## Magical Methods: Using Topic Models in Digital Humanities' Research
 ### November 22, 2017
 Professor Shawn Graham of Carleton University spoke about topic modeling in the field of digital humanities with a focus on archeology. First, he explained that a (large) part of digital humanities is borrowing from other disciplines and applying it to our own field of study. 
