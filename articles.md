@@ -24,7 +24,15 @@ This page contains articles and tools consulted for each of the topic explored i
 [Martha Saxton - Wikipedia and Women’s History: A Classroom Experience](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
 
 #### Tools:
-🚧
+[Amara](https://amara.org/en/) is a tool that lets you caption/subtitle videos. It's often used for YouTube videos in order to make content more available. 
+
+[OpenStreet](https://www.openstreetmap.org/#map=2/71.3/-96.8) is a community driven mapping site where local uses can contribute and maintain maps. The website is entirely user generated and provides different details (like where garbage and recylcing is located) that you cannot find on Google Maps.
+
+[Waze](https://www.waze.com/livemap) is an app that allows you to see and make live traffic updates. 
+
+[Encyclopedia of Life](http://eol.org/) is a website, much like Wikipedia that is crowd sourced. 
+
+[AnnoTate](https://anno.tate.org.uk/#!/) allows you to transcribe documents along with other people. 
 
 ## Mapping
 #### Articles:
