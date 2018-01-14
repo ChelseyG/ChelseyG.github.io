@@ -6,8 +6,12 @@ permalink: /Events/
 
 ## Digital Interfaces: A Significant Contribution to Earl Modern Theatre Studies
 ### January 12, 2018
-Dr. Christopher Schuwey of the University of Fribourg's lecture "Digital Interfaces: A Significant Contribution
-to Early Modern Theatre Studies" 
+Dr. Christopher Schuwey of the University of Fribourg's lecture "Digital Interfaces: A Significant Contribution to Early Modern Theatre Studies" dealt with the issue of interfaces.
+
+He began his lecture discussing the article “The Digital-Humanities Bust” and how it fails to understand exactly how technology is used in the humanities. The biggest fail from the article is that the author thinks that the only aspect of digital humanities is computational analysis, which is in fact not the case. One important aspect of Digital Humanities is interfaces. 
+
+Schuwey discusses the importance of interfaces and their up keep. Interfaces play a fundamental role in the way we access and recognize data. It allows us to interact with data in new ways. Interfaces provide a new opportunity to interact with texts and new ways to display the data in a visually appealing way. Schuwey’s own work allows people to read with the eye of a theatre audience. Some interesting things about interfacing texts is that it prevents having to scroll through the document or to the end of the book to read footnotes or endnotes. Instead, you can hover over text to gain more information or click on hyperlinks to gain more information on a certain topic, without actually having to leave your place on the page. Not only does this offer more opportunity to learn as more information is available in one spot, but it also allows researchers to make new conclusions as data is organized in new ways.  
+
 
 ## Magical Methods: Using Topic Models in Digital Humanities' Research
 ### November 22, 2017
