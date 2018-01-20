@@ -6,6 +6,42 @@ permalink: /articles/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
+## Social Media
+#### Articles:
+[Spangler, Sarah et al - What relationship does the digital humanities/academy have to social media activist movements?](http://mediacommons.futureofthebook.org/question/what-relationship-does-digital-humanitiesacademy-have-social-media-activist-movements)
+
+[Kris Shaffer - 10 ways to get started fighting internet propaganda](https://pushpullfork.com/getting-started-fighting-internet-propaganda/amp/)
+
+[Kris Shaffer- The botnet cometh](https://pushpullfork.com/botnet-cometh/)
+
+[Kris Shaffer - Something is rotten in the state of Arizona](https://pushpullfork.com/omething-rotten-arizona/)
+
+[Martin Hawksey -TAGS Tricks: Making a searchable location map of your top Twitter contributors with Geocode by Awesome Table](https://mashe.hawksey.info/2016/06/tags-tricks-making-a-searchable-location-map-of-your-top-twitter-contributors-with-geocode-by-awesome-table/amp/)
+
+[Danah Boyd and Alice Marwick - Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and
+Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1925128)
+
+[Tressie McMillan Cottom - “Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity](http://adanewmedia.org/2015/04/issue7-mcmillancottom/)
+
+[Alexis C. Madrigal - Facebook's Reckoning Draws Nearer](HTTPS://WWW.THEATLANTIC.COM/TECHNOLOGY/ARCHIVE/2017/09/FROM-RUSSIA-WITH-LOVE-FOR-AUTOMATION/540180/)
+
+[Estee Beck - Breaking Up With Facebook: Untethering From The Ideological Freight Of Online Surveillance](HTTP://WWW.DIGITALPEDAGOGYLAB.COM/HYBRIDPED/BREAKING-FACEBOOK-UNTETHERING-IDEOLOGICAL-FREIGHT-ONLINE-SURVEILLANCE/)
+
+#### Tools
+[Hydrator](https://github.com/DocNow/hydrator)
+
+[Tweet Catalog](http://www.docnow.io/catalog/)
+
+[Twarc](https://github.com/DocNow/twarc)
+
+[Diff Engine](https://github.com/DocNow/diffengine)
+
+[TweetMinR](https://github.com/kshaffer/tweetmineR)
+
+[Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila)
+
+[Tags](https://tags.hawksey.info/get-tags/)
+
 ## Crowds
 #### Articles:
 [Bridget Draxler and Jon Winet - Community](https://digitalpedagogy.mla.hcommons.org/keywords/community/)
