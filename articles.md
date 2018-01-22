@@ -98,7 +98,7 @@ Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1925128)
 
 [George H. Williams - Access](https://digitalpedagogy.mla.hcommons.org/keywords/access/)
 
-####Tools:
+#### Tools:
 
 [Funkify](http://funkify.org/)is a disability stimulator that allows users to experience what it is like using computers with a particular disability. It must be noted that this tool, while neat, is not an accurate representation of each disability it simulates. It is also important to note that this tool represents real struggles for real people and shouldn't be treated like a toy. This means saying things like "this is so cool" can be offensive for those who have a disability and struggle everyday with exactly what the tool simulates.  
 
