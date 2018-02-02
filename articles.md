@@ -6,6 +6,31 @@ permalink: /articles/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
+## Public Humanities
+#### Articles:
+[Sarah Emily Bond - The Argument Made By The Absence: On Whiteness, Polychromy, And Diversity In Classics](https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-whiteness-polychromy-and-diversity-in-classics/)
+
+[Sarah E. Bond - Why We Need to Start Seeing the Classical World in Color](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/)
+
+[Tressie McMillan Cottom - “Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity](http://ada.fembotcollective.org/2015/04/issue7-mcmillancottom/)
+
+[Marta Delatte - Retrieving From my Digital Body: A map of Abuse and Solidarity](http://www.bodyarchive.wanderingliquen.com/)
+
+[Colleen Flaherty - Threats for What She Didn’t Say](https://www.insidehighered.com/news/2017/06/19/classicist-finds-herself-target-online-threats-after-article-ancient-statues)
+
+[Jim McGrath - Digital Public Humanities (Fall 2017)](http://fall2017digitalpublichumanities.jimmcgrath.us/)
+
+[Miriam Posner - We can teach women to code, but that just creates another problem](https://www.theguardian.com/technology/2017/mar/14/tech-women-code-workshops-developer-jobs)
+
+[Kris Shaffer & Bill Fitzgerald - Spot a Bot: Identifying Automation and Disinformation on Social Media](https://medium.com/data-for-democracy/spot-a-bot-identifying-automation-and-disinformation-on-social-media-2966ad93a203)
+
+[Kris Shaffer - Twitter propaganda during 'Unite the Right'](https://pushpullfork.com/twitter-propaganda-during-unite-the-right/)
+
+[Meg Lambert & Donna Yates - Crime, Controversy and the Comments Section: Discussing archaeological looting, trafficking, and the illicit antiquities trade online](http://intarch.ac.uk/journal/issue39/6/toc.html)
+
+## Tools:
+🚧
+
 ## Social Media
 #### Articles:
 [Spangler, Sarah et al - What relationship does the digital humanities/academy have to social media activist movements?](http://mediacommons.futureofthebook.org/question/what-relationship-does-digital-humanitiesacademy-have-social-media-activist-movements)
