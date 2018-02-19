@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Articles and Tools Consulted 
 permalink: /articles/
 ---
