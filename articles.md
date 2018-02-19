@@ -16,7 +16,7 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Amanda Phillips, Gillian Smith, Michael Cook & Tanya Short - Feminism and procedural content generation:
 toward a collaborative politics of computational
-creativity](chrome- extension://bjfhmglciegochdpefhhlphglcehbmek/content/web/viewer.html?file=http%3A%2F%2Fwww.tandfonline.com.proxy.library.carleton.ca%2Fdoi%2Fpdf%2F10.1080%2F14626268.2016.1147469%3FneedAccess%3Dtrue) 
+creativity](http://www.tandfonline.com/doi/full/10.1080/14626268.2016.1147469) 
 
 ## Tools
 [Tracery](http://tracery.io/) created by Kate Compton allows you to create simple to complex twitter bots. 
