@@ -6,6 +6,29 @@ permalink: /articles/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
+## Computational Creativity
+#### Articles
+[gamingarchaeo - Making things: Photobashing as Archaeological Remediation?](http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/)
+
+[Kate Compton - Generominos A construction set for generative interactive artwork](http://www.galaxykate.com/generominos/)
+
+[Kate Compton - What are Casual Creators?](http://www.casualcreator.com/blog/)
+
+[Amanda Phillips, Gillian Smith, Michael Cook & Tanya Short - Feminism and procedural content generation:
+toward a collaborative politics of computational
+creativity](chrome- extension://bjfhmglciegochdpefhhlphglcehbmek/content/web/viewer.html?file=http%3A%2F%2Fwww.tandfonline.com.proxy.library.carleton.ca%2Fdoi%2Fpdf%2F10.1080%2F14626268.2016.1147469%3FneedAccess%3Dtrue) 
+
+## Tools
+[Tracery](http://tracery.io/) created by Kate Compton allows you to create simple to complex twitter bots. 
+
+
+[Jeremiah McCall - Twine, Inform, and Designing Interactive History Texts](http://www.playthepast.org/?p=5739) this website shows a variety of tools that are used for interative history. 
+
+## Examples
+[Heritage Jam](http://www.heritagejam.org/2017-entries) is creative computational creative projects
+
+[Procjam](https://itch.io/jam/procjam) highlights a variety of examples of products created with computational creativity
+
 ## Public Humanities
 #### Articles:
 [Sarah Emily Bond - The Argument Made By The Absence: On Whiteness, Polychromy, And Diversity In Classics](https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-whiteness-polychromy-and-diversity-in-classics/)
@@ -27,9 +50,6 @@ This page contains articles and tools consulted for each of the topic explored i
 [Kris Shaffer - Twitter propaganda during 'Unite the Right'](https://pushpullfork.com/twitter-propaganda-during-unite-the-right/)
 
 [Meg Lambert & Donna Yates - Crime, Controversy and the Comments Section: Discussing archaeological looting, trafficking, and the illicit antiquities trade online](http://intarch.ac.uk/journal/issue39/6/toc.html)
-
-## Tools:
-🚧
 
 ## Social Media
 #### Articles:
