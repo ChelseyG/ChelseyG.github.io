@@ -10,8 +10,9 @@ This page contains articles and tools consulted for each of the topic explored i
 #### Articles
 [Tanya E. Clement - The Ground Truth of DH Text Mining](http://dhdebates.gc.cuny.edu/debates/text/96)
 
-[Sound - Steph Ceraso](
-https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
+[Steph Ceraso - Sound](https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
+
+[Emily Thompson - The Roaring 'Twenties](http://vectors.usc.edu/projects/index.php?project=98&thread=AuthorsStatement)
 
 ## Computational Creativity
 #### Articles
