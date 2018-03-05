@@ -14,6 +14,8 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Emily Thompson - The Roaring 'Twenties](http://vectors.usc.edu/projects/index.php?project=98&thread=AuthorsStatement)
 
+[Daniel Ruten - Sonic Word Clouds - a Digital History Project](https://programminghistorian.org/posts/sonic-word-clouds) 
+
 ## Computational Creativity
 #### Articles
 [gamingarchaeo - Making things: Photobashing as Archaeological Remediation?](http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/)
