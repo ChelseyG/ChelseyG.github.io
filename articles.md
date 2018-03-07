@@ -16,6 +16,10 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Daniel Ruten - Sonic Word Clouds - a Digital History Project](https://programminghistorian.org/posts/sonic-word-clouds) 
 
+[Shawn Graham - The Sound of Data (a gentle introduction to sonification for historians](https://programminghistorian.org/lessons/sonification)
+
+[Damian Murphy, Simon Shelley, Aglaia Foteinou, Jude Brereton and Helena Daffern - Acoustic Heritage and Audio Creativity: the Creative Application of Sound in the Representation, Understanding and Experience of Past Environments](http://intarch.ac.uk/journal/issue44/12/index.html)
+
 ## Computational Creativity
 #### Articles
 [gamingarchaeo - Making things: Photobashing as Archaeological Remediation?](http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/)
