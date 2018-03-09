@@ -20,6 +20,14 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Damian Murphy, Simon Shelley, Aglaia Foteinou, Jude Brereton and Helena Daffern - Acoustic Heritage and Audio Creativity: the Creative Application of Sound in the Representation, Understanding and Experience of Past Environments](http://intarch.ac.uk/journal/issue44/12/index.html)
 
+## Tools
+
+[Music Algorithms](http://musicalgorithms.org/3.0/#welcome) 
+
+[Sonic Pi](http://sonic-pi.net/)
+
+[Midi](https://github.com/shawngraham/miditime)
+
 ## Computational Creativity
 #### Articles
 [gamingarchaeo - Making things: Photobashing as Archaeological Remediation?](http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/)
