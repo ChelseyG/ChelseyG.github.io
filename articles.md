@@ -28,6 +28,14 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Midi](https://github.com/shawngraham/miditime)
 
+[Youtube DL](https://rg3.github.io/youtube-dl/)
+
+[Videogrep](http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/)
+
+[Glitch](https://glitch.com/music)
+
+[Mancis the Poet](https://electricarchaeology.ca/2016/02/18/mancis-the-poet-or-what-you-get-when-you-feed-cape-breton-fiddle-tunes-into-a-recurrent-neural-network/)
+
 ## Computational Creativity
 #### Articles
 [gamingarchaeo - Making things: Photobashing as Archaeological Remediation?](http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/)
@@ -217,7 +225,6 @@ Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1925128)
 [Voyant tools](http://voyant-tools.org/) is a tool that can do a multitude of text-analysis including word clouds, word usage, trends, bubble lines, correlations, and common phrases to name a few. 
 
 ## Code
-
 #### Articles:
 [Paul Ford - "What is Code"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
