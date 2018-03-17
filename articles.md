@@ -6,6 +6,22 @@ permalink: /articles/
 
 This page contains articles and tools consulted for each of the topic explored in my digital notebook. 
 
+## Publishing
+#### Articles
+
+#### Tools
+[Presbooks](https://pressbooks.com/) is a platform for publishing written work online. 
+
+[WordPress](https://wordpress.org/plugins/commentpress-core/) is a platform for making websites. 
+
+[Omeka](http://omeka.org/) helps you create online exhibits. 
+
+[MkDocs](http://www.mkdocs.org) is a site generator for project documentation. 
+
+[Hugo with DocDock theme](http://docdock.netlify.com/) is used to create websites.
+
+[BookDown](https://bookdown.org/) is another publishing platform for books, however written in R Markdown. 
+
 ## Sound
 #### Articles
 [Tanya E. Clement - The Ground Truth of DH Text Mining](http://dhdebates.gc.cuny.edu/debates/text/96)
