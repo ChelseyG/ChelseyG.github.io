@@ -15,6 +15,8 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Hong-Ming Liang - Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2013/opening-the-journal)
 
+[Kathleen Fitzpatrick - Planned Obsolescence](http://mcpress.media-commons.org/plannedobsolescence/)
+
 #### Tools
 [Presbooks](https://pressbooks.com/) is a platform for publishing written work online. 
 
