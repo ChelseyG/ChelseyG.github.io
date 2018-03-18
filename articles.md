@@ -9,6 +9,11 @@ This page contains articles and tools consulted for each of the topic explored i
 ## Publishing
 #### Articles
 
+[Augusta Rohrbach - Authorship](https://digitalpedagogy.mla.hcommons.org/keywords/authorship/)
+
+[Hong-Ming Liang - Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2013/opening-the-journal)
+
+
 #### Tools
 [Presbooks](https://pressbooks.com/) is a platform for publishing written work online. 
 
