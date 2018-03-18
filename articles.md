@@ -17,6 +17,8 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Kathleen Fitzpatrick - Planned Obsolescence](http://mcpress.media-commons.org/plannedobsolescence/)
 
+[Martin Paul Eve - Starting an Open Access Journal: a step-by-step guide part 1](https://www.martineve.com/2012/07/10/starting-an-open-access-journal-a-step-by-step-guide-part-1/)
+
 #### Tools
 [Presbooks](https://pressbooks.com/) is a platform for publishing written work online. 
 
