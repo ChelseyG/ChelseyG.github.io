@@ -19,6 +19,10 @@ This page contains articles and tools consulted for each of the topic explored i
 
 [Martin Paul Eve - Starting an Open Access Journal: a step-by-step guide part 1](https://www.martineve.com/2012/07/10/starting-an-open-access-journal-a-step-by-step-guide-part-1/)
 
+[Create a New Open Textbook](https://opentextbc.ca/opentextbook/part/main-body/)
+
+[Jack Dougherty, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke - What We Learned from Writing History in the Digital Age](https://writinghistory.trincoll.edu/conclusions-2012-spring/)
+
 #### Tools
 [Presbooks](https://pressbooks.com/) is a platform for publishing written work online. 
 
