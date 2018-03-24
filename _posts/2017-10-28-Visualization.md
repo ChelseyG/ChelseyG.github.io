@@ -27,7 +27,7 @@ According to [Lev Manovich]( http://manovich.net/content/04-projects/064-what-is
   (my own research)
 #### Figure 3 ![Figure 3](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/figure%203.png)
   
-•	Scientific Visualization: most often than not uses non-numeric data and spatial data to create 3D representations of a phenomenon; Scientific Visualization is used in medicine, astrology, archeology, computer science, etc., and
+•	Scientific Visualization: most often than not uses non-numeric data and spatial data to create 3D representations of a phenomenon; Scientific Visualization is used in medicine, astronomy, archeology, computer science, etc., and
  (my own image)
 #### Figure 4 ![Figure 4](https://raw.githubusercontent.com/ChelseyG/ChelseyG.github.io/master/images/Figure%204-2.png)
  
