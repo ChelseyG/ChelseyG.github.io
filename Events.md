@@ -4,6 +4,17 @@ title: Digital Humanity Events
 permalink: /Events/
 ---
 
+## Policy Ignite - Digital Jam
+### AUgust 23, 2018
+On August 23rd, I attended Policy Ignite – Digital Jam a yearly event for public servants that allows the opportunity for open discussion on government and digitization. At this event, we heard two speakers talk about two separate issues and one speaker talk about how to approach problem solving when you’re faced with empirical evidence. The first two speakers used visual cues and statistics to show real Canadian problems that are ignored because of distance from the problem and minor representation in a larger whole. The first presenter talked about how to address abuse in the Northern territories and the second presenter spoke about how to make the Invisible Visible, specifically children in care. 
+ 
+From here, we broke off into two groups, my group looked at making the invisible visible, to discuss the underlying issues. With the 5 whys approach, we looked at what the data shows and doesn’t show us, how the surveys are problematic, and what could be done to solve the problem. We discussed the way that surveys and analysis of data often explore and show the negative side of a situation, and ignore the success. There is also the issue that it is highly difficult to measure qualitative data and that no follow up is done on children in care after the age of 18. My group also discussed the media’s influence in the matter, for example, how film and television often portray foster parents and government in a negative light and children as victims, ignoring the different forms of support in place for children and families of care and how children’s violence and trauma can be problematic in a establishing a single family home. The media plays a specific role in the way the public comes to understand the issue and shows how being uneducated affects the way we perceive the issue or misperceive the actual problem. 
+ 
+We finished our discussion by creating a system map. This map, a lot like a spider map, began with the original issue and webs out into different branches where we dig deeper into the underlying issue (using the 5 whys) until we felt we had established a real cause for the problem. The system map help to show how different issues were interconnected and contributed to a larger more general problem. 
+ 
+The event was a great way to see how the digital cannot always be taken at a first glance, the importance of data analysis, and the importance of showing the limitations of the technique. It was also a good forum to discuss what we, as public servants, can do to improve the resources and way we approach these situations, one of which was making sure that the information for children and families in these situations is available and accessible. 
+
+
 ## Digital Interfaces: A Significant Contribution to Earl Modern Theatre Studies
 ### January 12, 2018
 Dr. Christopher Schuwey of the University of Fribourg's lecture "Digital Interfaces: A Significant Contribution to Early Modern Theatre Studies" dealt with the issue of interfaces.
